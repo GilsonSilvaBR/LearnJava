@@ -1,0 +1,8 @@
+Project: Contacts (Java)
+
+Learners who successfully completed this project rated it as follows (based on 6 reviews):
+
+About:
+     Here is something you probably use regularly: contacts. In this project, you will write a program to create contacts (like on the mobile phone) and search for people or organizations by name.
+Objetivo:
+    Learn the essential basics of object-oriented programming: encapsulation, inheritance and polymorphism.
